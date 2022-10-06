@@ -4,5 +4,3 @@ def a():
 sum =ak +mk
 print(sum)
 //code is reghit
-
-dwewfefe
